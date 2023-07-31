@@ -16,5 +16,11 @@
     <img align="center" alt="MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </div><br/>
 
+Apaixonado por tecnologia, atualmente no 4° semestre de Ciência da Computação na faculdade Invest ciência e tecnologia.
 
-Apaixonado por tecnologia, atualmente no 4° semestre de Ciência da Computação na faculdade Invest ciência e tecnologia, sempre procurando novas experiencias e aperfeiçoamento no mercado de trabalho.
+
+#### Manutenções🖥️
+Atualmente faço também alguns freelances com manutenção de computadores e noteboks com preços super acessíveis (somente na cidade de Cuiabá MT), segue contatos abaixo para mais informação:
+
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/ZS55OBQZKY2KP1)
+[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](gabrielhenriqueferreiraalves07@gmail.com)
