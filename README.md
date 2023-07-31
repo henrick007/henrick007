@@ -14,4 +14,7 @@
     <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
     <img align="center" alt="Postgree" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
     <img align="center" alt="MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-</div>
+</div><br/>
+
+
+Apaixonado por tecnologia, atualmente no 4° semestre de Ciência da Computação na faculdade Invest ciência e tecnologia, sempre procurando novas experiencias e aperfeiçoamento no mercado de trabalho.
