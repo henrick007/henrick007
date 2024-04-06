@@ -1,25 +1,27 @@
-### Hello! I'm Gabriel Henrique✌️
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/07_henrick?igshid=OGQ5ZDc2ODk2ZA==)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-henrique-7b1716211/)
-
+<h1>Olá!! Eu sou o Gabriel Henrique✌️</h1>
+<p>
+    Me chamo Gabriel Henrique, tenho 21 anos, atualmente estou cursando o 5º semestre em Análise e Desenvolvimento de Sistema na faculdade invest de ciência e tecnologia, Estou buscando entrar no mercado da programação em pequenos projetos, atrás de estágios em desenvolvimento para me aperfeiçoar e poder crescer mais e mais nesse mercado que é gigantesco;
+    <br>
+    Possuo conhecimento básico em desenvolvimento WordPress, desenvolvimento front-end com JavaScript, HTML, CSS, banco de dados postgree, e algumas outras linguagens que a faculdade me proporcionou.
+    <br>
+    Atualmente tenho um trabalho integral como técnico de Helpdesk na micro-empresa Gestmais tecnologia, mas como renda extra faço alguns sites em WordPress, trazendo um site dinâmico, otimizado, bonito e responsivo; tenho como renda extra também manutenção em computadores e notebooks tudo dentro do meu conhecimento e com um preço super acessível, atendendo 
+    a cidade de Cuiabá e Várzea Grande.
+</p>
 
 ![Henrick GitHub stats](https://github-readme-stats.vercel.app/api?username=henrick007&show_icons=true&theme=synthwave)
-
-#### Technologies I use in my day 🖥️
-<div style="display: inline_block"><br/>
-    <img align="center" alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-    <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
-    <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
-    <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img align="center" alt="Postgree" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-    <img align="center" alt="MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-</div><br/>
-
-Passionate about technology, currently in the 4th semester of Computer Science at Invest Science and Technology College.
-
-
-#### Maintenance🖥️
-Currently I also do some freelance maintenance of computers and notebooks with super affordable prices (only in the city of Cuiabá MT), follow the contacts below for more information:
-
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/ZS55OBQZKY2KP1)
-[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](gabrielhenriqueferreiraalves07@gmail.com)
+<br>
+<br>
+<div style="display: inline_block">
+    <img align="center" alt="Rafa-Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+    <img align="center" alt="Rafa-Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+    <img align="center" alt="Rafa-Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+    <img align="center" alt="Rafa-Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+    <img align="center" alt="Rafa-Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" />
+</div>
+<hr>
+<div>
+    <a href="https://www.instagram.com/07_henrick" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href="https://discord.gg/mHfdpxMsTG" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+    <a href = "mailto:gabrielhenriqueferreiraalves07@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://linkedin.com/in/gabriel-henrique-ferreira-7b1716211" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
